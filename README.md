@@ -1,6 +1,4 @@
-<img src="https://i.ibb.co/Q3ymGmVN/DALL-E-2025-02-20-17-59-47-A-minimalistic-vector-logo-of-Earth-in-space-The-design-should-be-clean-a.png" alt="SpaceURL Logo" width="120" />
-
-# SpaceURL
+# 🌌 SpaceURL
 
 SpaceURL is a fast and minimalistic URL shortener designed to turn long links into sleek, trackable short URLs. Built with modern web technologies, SpaceURL offers an intuitive and user-friendly experience.
 
